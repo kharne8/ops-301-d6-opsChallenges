@@ -13,7 +13,7 @@ cp /var/log/syslog ./syslog-$(date +%m-%d-%Y_%H-%M).log
 #Strech
 timeStamp=$(date +%m-%d-%Y_%H-%M)
 
-echo "Your file has been copied to current directory with todays date $date appended to the file name."
+echo "Your file has been copied to current directory with todays date $timeStamp appended to the file name."
 
 
 #End
