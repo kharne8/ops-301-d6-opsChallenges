@@ -19,7 +19,7 @@ function pingSelf(){
 }
 
 function infoIP(){
-    ipconfig
+    ip a
 }
 
 # then start a while loop that show the options that will execute the functions and it will run until users chooses to exit
