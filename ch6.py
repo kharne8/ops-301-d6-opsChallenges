@@ -1,5 +1,3 @@
-
-
 #Script: Ops 301 Class 06 Ops Challenge Solution
 #Author: Marco Aliaga
 #Date of latest revision: 20 MAR 2023
