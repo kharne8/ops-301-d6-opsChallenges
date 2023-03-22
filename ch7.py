@@ -24,7 +24,7 @@ path =  input("Enter a file path: ")
 # Declaration of functions
 
 ### Declare a function here
-def genDir():
+def genDir(path):
     for (root, dirs, files) in os.walk(path):
     ### Add a print command here to print ==root==
         print(root)
