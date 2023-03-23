@@ -65,8 +65,6 @@ print(array)
 array.sort()
 print(array)
 
-
-
 # clear() removes all the elements from the list
 array.clear()
 print(array)

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Script: Ops 201 Class XX Ops Challenge Solution
+#Script: Ops 301 Class XX Ops Challenge Solution
 #Author: Marco Aliaga
 #Date of latest revision: 
 #Purpose: 
